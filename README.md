@@ -7,6 +7,13 @@ projects. It covers foundational methods, such as text preprocessing and feature
 including sentiment analysis, machine translation, and language generation. This repository serves as a comprehensive 
 platform for learning, experimenting, and building innovative solutions in the field of text and language analysis.
 
-## 1. Sentiment Analysis and Text Classification
-### Aspect-Based Sentiment Analysis
+## 1. Text Processing and Feature Engineering
+
+## 2. Sentiment Analysis and Text Classification  
+### 2.1. Aspect-Based Sentiment Analysis
 ✦ [Online Store Review](a.%20Jupyter%20Notebooks/Online%20Store%20Reviews.ipynb)<br />
+
+### 2.2. Multi-Class & Multi-Label Text Classification  
+### 2.3. Transfer Learning with BERT, RoBERTa  
+
+
