@@ -10,7 +10,7 @@ platform for learning, experimenting, and building innovative solutions in the f
 ## 1. Text Processing and Feature Engineering
 ✦ [Basics of Text Preprocessing](a.%20Jupyter%20Notebooks/Basics%20of%20Text%20Preprocessing.ipynb)<br />
 ✦ [Named Entity Recognition](a.%20Jupyter%20Notebooks/Named%20Entity%20Recognition.ipynb)<br />
-
+✦ [Text Preprocessing & Word Embedding](a.%20Jupyter%20Notebooks/Text%20Preprocessing%20&%20Word%20Embeddings.ipynb)<br />
 
 ## 2. Sentiment Analysis and Text Classification  
 ### 2.1. Aspect-Based Sentiment Analysis
