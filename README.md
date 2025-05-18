@@ -8,6 +8,7 @@ including sentiment analysis, machine translation, and language generation. This
 platform for learning, experimenting, and building innovative solutions in the field of text and language analysis.
 
 ## 1. Text Processing and Feature Engineering
+✦ [Basics of Text Preprocessing](a.%20Jupyter%20Notebooks/Basics%20of%20Text%20Preprocessing.ipynb)<br />
 
 ## 2. Sentiment Analysis and Text Classification  
 ### 2.1. Aspect-Based Sentiment Analysis
