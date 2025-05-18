@@ -18,6 +18,8 @@ platform for learning, experimenting, and building innovative solutions in the f
 ✦ [Online Store Review](a.%20Jupyter%20Notebooks/Online%20Store%20Reviews.ipynb)<br />
 
 ### 2.2. Multi-Class & Multi-Label Text Classification  
+✦ [Emotion Classification Using Bidirectional LSTM](a.%20Jupyter%20Notebooks/Emotion%20Classification%20Using%20Bidirectional%20LSTM.ipynb)<br />
+
 ### 2.3. Transfer Learning with BERT, RoBERTa  
 
 
