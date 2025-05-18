@@ -33,6 +33,7 @@ platform for learning, experimenting, and building innovative solutions in the f
 ## 4. Transformer-Based Models and Applications  
 ### 4.1. Fine-Tuning BERT and RoBERTa for NLP Tasks  
 ✦ [Fine-Tuning BERT for Sentiment Classification of Product Reviews Using PyTorch](a.%20Jupyter%20Notebooks/Fine-Tuning%20BERT%20for%20Sentiment%20Classification%20of%20Product%20Reviews%20Using%20PyTorch.ipynb)<br />
+✦ [Fine-Tuning RoBERTa for Binary Sentiment Classification of Online Store Reviews](a.%20Jupyter%20Notebooks/Fine-Tuning%20RoBERTa%20for%20Binary%20Sentiment%20Classification%20of%20Online%20Store%20Reviews.ipynb)<br />
 
 ### 4.2. Prompt Engineering with GPT and T5  
 ### 4.3. Multi-Modal Transformers (Vision + NLP)  
