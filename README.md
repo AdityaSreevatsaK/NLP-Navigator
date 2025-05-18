@@ -11,7 +11,6 @@ platform for learning, experimenting, and building innovative solutions in the f
 ✦ [Basics of Text Preprocessing](a.%20Jupyter%20Notebooks/Basics%20of%20Text%20Preprocessing.ipynb)<br />
 ✦ [Named Entity Recognition](a.%20Jupyter%20Notebooks/Named%20Entity%20Recognition.ipynb)<br />
 ✦ [Text Preprocessing & Word Embedding](a.%20Jupyter%20Notebooks/Text%20Preprocessing%20&%20Word%20Embeddings.ipynb)<br />
-✦ []()<br />
 
 ## 2. Sentiment Analysis and Text Classification  
 ### 2.1. Aspect-Based Sentiment Analysis
@@ -29,4 +28,11 @@ platform for learning, experimenting, and building innovative solutions in the f
 ✦ [Sequence To Sequence](a.%20Jupyter%20Notebooks/Sequence%20to%20sequence.ipynb)<br />
 
 ### 3.2. Attention Mechanisms in LSTMs  
-### 3.3. Hybrid Models (LSTM + CNN)  
+### 3.3. Hybrid Models (LSTM + CNN)
+
+## 4. Transformer-Based Models and Applications  
+### 4.1. Fine-Tuning BERT and RoBERTa for NLP Tasks  
+✦ [Fine-Tuning BERT for Sentiment Classification of Product Reviews Using PyTorch](a.%20Jupyter%20Notebooks/Fine-Tuning%20BERT%20for%20Sentiment%20Classification%20of%20Product%20Reviews%20Using%20PyTorch.ipynb)<br />
+
+### 4.2. Prompt Engineering with GPT and T5  
+### 4.3. Multi-Modal Transformers (Vision + NLP)  
