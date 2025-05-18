@@ -19,7 +19,7 @@ platform for learning, experimenting, and building innovative solutions in the f
 
 ### 2.2. Multi-Class & Multi-Label Text Classification  
 ✦ [Binary Classification with TF-IDF and Ensemble Models](a.%20Jupyter%20Notebooks/Binary%20Classification%20with%20TF-IDF%20and%20Ensemble%20Models.ipynb)<br />
-✦ [Emotion Classification Using Bidirectional LSTM](a.%20Jupyter%20Notebooks/Emotion%20Classification%20Using%20Bidirectional%20LSTM.ipynb)<br />
+✦ [Emotion Classification from Product Reviews using Bidirectional LSTM and Word2Vec Embeddings](a.%20Jupyter%20Notebooks/Emotion%20Classification%20from%20Product%20Reviews%20using%20Bidirectional%20LSTM%20and%20Word2Vec%20Embeddings.ipynb)<br />
 
 ### 2.3. Transfer Learning with BERT, RoBERTa  
 
